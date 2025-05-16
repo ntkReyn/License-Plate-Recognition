@@ -1,0 +1,6 @@
+opencv-python-headless
+ultralytics
+easyocr
+kafka-python
+requests
+python-dotenv
